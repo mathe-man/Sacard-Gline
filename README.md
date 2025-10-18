@@ -1,8 +1,9 @@
 
-# Sacard Physic Engine  -   Sacard PE
+# Sacard Physic Engine  -   Sacard-Gline
 
 ## Presentation
 Sacard Physic Engine (or Sacard PE and also SPE) is small physic engine which can simulate the gravitation of multiple celestial bodies.
+There is a 3D version avaible: [Sacard-Jet](https://github.com/mathe-man/Sacard-Jet)
 
 ## Installation
 First download the file corresponding to your Operating System and architecture.
